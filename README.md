@@ -29,6 +29,7 @@ print("{0:.2f}".format(d))
 
 
 ### OUTPUT:
+![Screenshot 2023-11-29 095011](https://github.com/23008112/DISTANCE-BETWEEN-TWO-POINTS/assets/138972470/7b27d9ef-e01c-4ca2-bcd9-504bac2e9eed)
 
 
 ### RESULT:
